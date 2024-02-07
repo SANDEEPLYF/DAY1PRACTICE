@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=100, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1" width="100%" height="670px"> 
+        <thead>
+            <tr>
+            <th bgcolor="red">monday</th>
+            <th bgcolor="yellow">tuesday</th>
+            <th bgcolor="white">wednesday</th>
+            <th bgcolor="pink">thursday</th>
+            <th bgcolor="green">friday</th>
+            <th bgcolor="blue">saturday</th>
+            <th bgcolor="yellow">sunday</th>
+            </tr>
+
+
+
+        </thead>
+        <tbody>
+            
+        
+        <tr>
+            
+            <td bgcolor="blue">public swim 6:30-10:30</td>
+            <td bgcolor="yellow">public swim 06:30-09:00</td>
+            <td bgcolor="pink">public swim 06:30-11:15</td>
+            <td bgcolor="blue">public swim 06:30-09:00</td>
+            <td bgcolor="white">public swim 06:30-09:00</td>
+            <td bgcolor="red">lane swim 08:00-09:00</td>
+            <td bgcolor="yellow">lane swim 08:00-09:00</td>
+        </tr>
+        <tr> 
+            <td bgcolor="red">aquacise 10:30-11:15</td>
+            <td bgcolor="white">aqua jog 09:15-10:00</td>
+            <td bgcolor="yellow">education swmimming lesson 09:00-12:00</td>
+            <td bgcolor="red">aquacise 11:15-12:00</td>
+            <td bgcolor="pink">education swmimming lesson 09:00-12:00</td>
+            <td bgcolor="blue">oldham active kids swimming lessons 08:00-09:00</td>
+            <td bgcolor="yellow">public swim09:00-11:00</td>
+        </tr>
+
+ <tr>
+            <td bgcolor="blue">lame swim 10:30-11:15</td>
+            <td bgcolor="yellow">parent&baby 09:15-10:00</td>
+            <td bgcolor="pink">lane swim 09:00-12:00</td>
+            <td bgcolor="blue">lane swim 12:00-13:00</td>
+            <td bgcolor="white">lane swim 09:00-12:00</td>
+            <td bgcolor="red">parent&baby 08:00-09:00</td>
+            <td bgcolor="yellow">aquacise 09:00-11:00</td>
+ </tr>
+ 
+</tbody>
+
+</table>
+
+</body>
+</html>
